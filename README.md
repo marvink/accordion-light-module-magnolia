@@ -1,44 +1,35 @@
-# accordion-light-module-magnolia
+# Shareable - Accordion Component for Magnolia CMS
 
-<!--
-Provide a one sentence description of what your light module
-provides.
--->
-
+> This is a simple accordion component based on the touristic demo of magnolia. All CSS and Javascript is based on Bootstrap.
 
 ## Features
+> You can add a title and check if the accordion should be expanded on page load. You can add multiple other components inside.
 
-<!--
-Provide a list of the key features this module provides for content
-authors, or whoever the primary user is. For a component template,
-consider providing screenshots of the rendered component and the
-component dialog.
--->
+![Demo page with component](_dev/README-component.jpg)
 
+![Component in EditMode](_dev/README-component-editmode.jpg)
+
+![Component Dialog](_dev/README-component-dialog.jpg)
 
 ## Usage
-
-<!--
-Provide details about how a developer can make the component template,
-or other features provided by the light module, available to content
-authors.
-
-This can include any special instructions about webresources or
-availability. This could include instructions on 3rd party dependencies
-such as jquery.
-
-Describe how a template can be configured with parameters if
-applicable.
--->
-
+> You can use this component by simple adding it to any area you want. If you use the travel-demo it is directly decorated on the home page main area.
 
 ## Information on Magnolia CMS
-
 This directory is a Magnolia 'light module'.
+
 https://docs.magnolia-cms.com
 
+Search the docs for `sharing light modules` for details on how to share and use light modules on npm and github.
+
+## Contribute to the Magnolia component ecosystem
+It's easy to create components for Magnolia and share them on github and npm. I invite you to do so and join the community. Let's stop wasting time by developing the same thing again and again, rather let's help each other out by sharing our work and create a rich library of components.
+
+Just add `magnolia-light-module` as a keyword to npm's package.json to make them easy to find and use on npm.
 
 ## License
 
+MIT
 
 ## Contributors
+
+Marvin Kerkhoff
