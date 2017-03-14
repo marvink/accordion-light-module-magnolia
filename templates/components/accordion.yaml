@@ -1,0 +1,10 @@
+templateScript: accordion-light-module-magnolia/templates/components/accordion.ftl
+dialog: accordion-light-module-magnolia:components/accordion
+renderType: freemarker
+areas: 
+   accordionItems:
+      availableComponents:
+        textImage:
+          id: travel-demo:components/textImage
+      type: list
+     

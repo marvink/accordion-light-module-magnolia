@@ -1,0 +1,6 @@
+areas:
+  main:
+    type: list
+    availableComponents:
+        accordion-light-module-magnolia:
+            id: accordion-light-module-magnolia:components/accordion
